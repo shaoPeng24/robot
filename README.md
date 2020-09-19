@@ -9,7 +9,7 @@
 #### 2. 软件效果展示：
 视频见video文件。  
 预判数据：  
-<img src="https://github.com/shaoPeng24/robot/blob/master/image/3.bmp"  width="80%" height="80%" align=center>
+<img src="https://github.com/shaoPeng24/robot/blob/master/image/3.jpg"  width="100%" height="100%" align=center>
 #### 3. 依赖环境:
 win10,keil5
 #### 4. 编译安装方式:
