@@ -28,7 +28,7 @@
 具体v和a的更新方法和pid比较相似，详见工程代码。
 
 #### 8. 软件架构：
-
+![image](https://github.com/shaoPeng24/robot/blob/master/image/1.png)
 #### 9. 未来优化方向：
 1. 提高pid的响应速度。
 2. 结合视觉的距离信息做预判。
