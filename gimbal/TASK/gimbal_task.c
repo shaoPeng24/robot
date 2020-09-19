@@ -254,7 +254,7 @@ float dropoffset;
 float dropOffset(float distance,float shootSpd)  //ÏÂ×¹²¹³¥¡£
 {
 
-	if(distance>=shootSpd*shootSpd/9.8f)return 45.0f;
+	if(distance>=shootSpd*shootSpd/5.0f)return 0.0f;
 	else if(distance<=0)return 0.0f;
 	else
 	{
@@ -280,8 +280,6 @@ uint8_t followMate(void)
 
 			if(followData.dataReset < 100)
 			{
-				followData.yaw[1]=followData.yaw[0];
-				followData.pitch[1]=followData.pitch[0];
 				yTime = 0;
 				followData.dataReset++;
 			}

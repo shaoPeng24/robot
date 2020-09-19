@@ -19,7 +19,7 @@ uint8_t MPU_init(void)
 	MPU_writeData(0X68,0X6B,1);
 	MPU_writeData(0x68,0X1B,0X18);//+-2000▲/s
 	MPU_writeData(0x68,0X1C,0x01);//+-2 g
-	MPU_writeData(0x68,0X1A,0X01);//  던욱21
+	MPU_writeData(0x68,0X1A,0X05);//  던욱21
 	HAL_Delay(10);
 	return 0;
 	

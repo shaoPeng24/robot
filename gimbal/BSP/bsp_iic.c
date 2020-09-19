@@ -80,11 +80,9 @@ uint8_t IIC_readByte(IIC_HandleTypeDef* iic)
 	{	
 		
 		HAL_GPIO_WritePin(iic->SCL_GPIO,iic->SCL_PIN,GPIO_PIN_RESET);
-		DELAY_us(1);
 		HAL_GPIO_WritePin(iic->SCL_GPIO,iic->SCL_PIN,GPIO_PIN_SET);
 		data<<=1;
 		data|=HAL_GPIO_ReadPin(iic->SDA_GPIO,iic->SDA_PIN);
-		DELAY_us(1);
 	}
 	return data;
 }

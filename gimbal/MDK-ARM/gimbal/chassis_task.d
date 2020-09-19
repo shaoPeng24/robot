@@ -8,7 +8,7 @@ gimbal\chassis_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 gimbal\chassis_task.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 gimbal\chassis_task.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
 gimbal\chassis_task.o: ../Drivers/CMSIS/Include/core_cm4.h
-gimbal\chassis_task.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\chassis_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 gimbal\chassis_task.o: ../Drivers/CMSIS/Include/cmsis_version.h
 gimbal\chassis_task.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 gimbal\chassis_task.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -16,7 +16,7 @@ gimbal\chassis_task.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 gimbal\chassis_task.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 gimbal\chassis_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 gimbal\chassis_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-gimbal\chassis_task.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+gimbal\chassis_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stddef.h
 gimbal\chassis_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 gimbal\chassis_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
 gimbal\chassis_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
@@ -47,10 +47,10 @@ gimbal\chassis_task.o: ../Inc/dma.h
 gimbal\chassis_task.o: ../Inc/usart.h
 gimbal\chassis_task.o: ..\APP-driver\keymouse.h
 gimbal\chassis_task.o: ..\BSP\bsp_usart.h
-gimbal\chassis_task.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
-gimbal\chassis_task.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
+gimbal\chassis_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+gimbal\chassis_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\string.h
 gimbal\chassis_task.o: ..\TASK\gimbal_task.h
-gimbal\chassis_task.o: F:\keil\ARM\ARMCC\Bin\..\include\math.h
+gimbal\chassis_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\math.h
 gimbal\chassis_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 gimbal\chassis_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
 gimbal\chassis_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

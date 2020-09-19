@@ -1,7 +1,7 @@
 gimbal\freertos.o: ../Src/freertos.c
 gimbal\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-gimbal\freertos.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-gimbal\freertos.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\freertos.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+gimbal\freertos.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 gimbal\freertos.o: ../Inc/FreeRTOSConfig.h
 gimbal\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 gimbal\freertos.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

@@ -26,10 +26,6 @@ uint8_t Bsp_canInit(void)
 	canFilter.FilterBank=15;    					//筛选器组15
 	status|=HAL_CAN_ConfigFilter(&hcan2,&canFilter);//配置过滤器
 	
-	/*离开初始模式*/
-	HAL_CAN_Start(&hcan1);				
-	HAL_CAN_Start(&hcan2);
-	
 	
 	/*开中断*/
 	HAL_CAN_ActivateNotification(&hcan1, CAN_IT_RX_FIFO0_MSG_PENDING);       //can1 接收fifo 0不为空中断

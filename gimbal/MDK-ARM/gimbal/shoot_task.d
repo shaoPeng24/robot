@@ -1,8 +1,8 @@
 gimbal\shoot_task.o: ..\TASK\shoot_task.c
 gimbal\shoot_task.o: ..\TASK\shoot_task.h
 gimbal\shoot_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/freertos.h
-gimbal\shoot_task.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-gimbal\shoot_task.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\shoot_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+gimbal\shoot_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 gimbal\shoot_task.o: ../Inc/FreeRTOSConfig.h
 gimbal\shoot_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 gimbal\shoot_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
@@ -49,10 +49,10 @@ gimbal\shoot_task.o: ..\APP-driver\rc.h
 gimbal\shoot_task.o: ../Inc/dma.h
 gimbal\shoot_task.o: ../Inc/usart.h
 gimbal\shoot_task.o: ..\APP-driver\pid.h
-gimbal\shoot_task.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
-gimbal\shoot_task.o: F:\keil\ARM\ARMCC\Bin\..\include\math.h
+gimbal\shoot_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\string.h
+gimbal\shoot_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\math.h
 gimbal\shoot_task.o: ..\BSP\bsp_usart.h
-gimbal\shoot_task.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
+gimbal\shoot_task.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdio.h
 gimbal\shoot_task.o: ..\TASK\send_task.h
 gimbal\shoot_task.o: ..\APP\vision.h.
 gimbal\shoot_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h

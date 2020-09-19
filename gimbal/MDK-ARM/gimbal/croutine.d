@@ -1,7 +1,7 @@
 gimbal\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
 gimbal\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-gimbal\croutine.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-gimbal\croutine.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\croutine.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+gimbal\croutine.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 gimbal\croutine.o: ../Inc/FreeRTOSConfig.h
 gimbal\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 gimbal\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

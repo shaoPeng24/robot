@@ -2,7 +2,7 @@ gimbal\system_stm32f4xx.o: ../Src/system_stm32f4xx.c
 gimbal\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 gimbal\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
 gimbal\system_stm32f4xx.o: ../Drivers/CMSIS/Include/core_cm4.h
-gimbal\system_stm32f4xx.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\system_stm32f4xx.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 gimbal\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
 gimbal\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 gimbal\system_stm32f4xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -14,7 +14,7 @@ gimbal\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc
 gimbal\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 gimbal\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 gimbal\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-gimbal\system_stm32f4xx.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+gimbal\system_stm32f4xx.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stddef.h
 gimbal\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 gimbal\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
 gimbal\system_stm32f4xx.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h

@@ -1,9 +1,9 @@
 gimbal\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c
-gimbal\cmsis_os.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
+gimbal\cmsis_os.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\string.h
 gimbal\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 gimbal\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-gimbal\cmsis_os.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-gimbal\cmsis_os.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\cmsis_os.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+gimbal\cmsis_os.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 gimbal\cmsis_os.o: ../Inc/FreeRTOSConfig.h
 gimbal\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 gimbal\cmsis_os.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

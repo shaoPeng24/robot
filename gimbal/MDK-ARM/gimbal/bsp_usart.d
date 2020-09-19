@@ -9,7 +9,7 @@ gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 gimbal\bsp_usart.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 gimbal\bsp_usart.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
 gimbal\bsp_usart.o: ../Drivers/CMSIS/Include/core_cm4.h
-gimbal\bsp_usart.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\bsp_usart.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 gimbal\bsp_usart.o: ../Drivers/CMSIS/Include/cmsis_version.h
 gimbal\bsp_usart.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 gimbal\bsp_usart.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -17,7 +17,7 @@ gimbal\bsp_usart.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 gimbal\bsp_usart.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-gimbal\bsp_usart.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+gimbal\bsp_usart.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stddef.h
 gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
 gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
@@ -34,8 +34,8 @@ gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
 gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 gimbal\bsp_usart.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
-gimbal\bsp_usart.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
-gimbal\bsp_usart.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
+gimbal\bsp_usart.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+gimbal\bsp_usart.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\string.h
 gimbal\bsp_usart.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/freertos.h
 gimbal\bsp_usart.o: ../Inc/FreeRTOSConfig.h
 gimbal\bsp_usart.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
@@ -59,7 +59,7 @@ gimbal\bsp_usart.o: ../Inc/dma.h
 gimbal\bsp_usart.o: ..\APP-driver\keymouse.h
 gimbal\bsp_usart.o: ..\TASK\shoot_task.h
 gimbal\bsp_usart.o: ..\TASK\gimbal_task.h
-gimbal\bsp_usart.o: F:\keil\ARM\ARMCC\Bin\..\include\math.h
+gimbal\bsp_usart.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\math.h
 gimbal\bsp_usart.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 gimbal\bsp_usart.o: ..\APP\mpu_data.h
 gimbal\bsp_usart.o: ..\APP-driver\mpu6050.h

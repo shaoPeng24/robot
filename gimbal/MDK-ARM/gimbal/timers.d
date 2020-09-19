@@ -1,8 +1,8 @@
 gimbal\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
-gimbal\timers.o: F:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+gimbal\timers.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 gimbal\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-gimbal\timers.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-gimbal\timers.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+gimbal\timers.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+gimbal\timers.o: D:\Personal\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 gimbal\timers.o: ../Inc/FreeRTOSConfig.h
 gimbal\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 gimbal\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
