@@ -15,6 +15,22 @@
 &emsp;&emsp;利用keil5自带编译工具进行程序编译及下载。
 
 #### 5. 文件目录结构：
+.
+|-- LICENSE  
+|-- README.md             
+|-- image       //数据图片  
+|-- gimbal      //云台程序  
+|   |-- APP     //应用
+|   |-- APP-dirver //应用驱动 
+|   |-- BSP        //对MX生成的初始化程序再次封装
+|   |-- Drivers  
+|   |-- Inc  
+|   |-- MDK-ARM    
+|   |-- Middlewares  
+|   |-- TASK        //freeRtos任务
+|   |-- Src  
+|   |-- Middlewares  
+|--
 
 #### 6. 软件与硬件的系统框图及流程图：
 ![image](https://github.com/shaoPeng24/robot/blob/master/image/2.png)
