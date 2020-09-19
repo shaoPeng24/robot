@@ -20,7 +20,7 @@ win10,keil5
 |-- LICENSE  
 |-- README.md             
 |-- image      &emsp;&emsp; &emsp;&emsp;&emsp;&ensp;//数据图片  
-|-- video       &emsp;&emsp; &emsp;&emsp;&emsp;&ensp;//软件效果
+|-- video       &emsp;&emsp; &emsp;&emsp;&emsp;&ensp;//软件效果  
 |-- gimbal      &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;//云台程序  
 |&emsp;&emsp;|-- APP  &emsp;&emsp;  &emsp;&emsp; //应用  
 |&emsp;&emsp;|-- APP-dirver &emsp;&ensp;//应用驱动   
