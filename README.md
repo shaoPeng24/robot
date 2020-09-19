@@ -10,9 +10,9 @@
 
 
 #### 3. 依赖环境:
-&emsp;&emsp;win10,keil5
+win10,keil5
 #### 4. 编译安装方式:
-&emsp;&emsp;利用keil5自带编译工具进行程序编译及下载。
+利用keil5自带编译工具进行程序编译及下载。
 
 #### 5. 文件目录结构：
 .  
@@ -30,7 +30,7 @@
 |&emsp;&emsp;|-- TASK      &emsp;&emsp;  &emsp;&emsp;//freeRtos任务  
 |&emsp;&emsp;|-- Src  
 |&emsp;&emsp;|-- Middlewares  
-|--
+|-- chassis     &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;//底盘程序，结构与云台相同
 
 #### 6. 软件与硬件的系统框图及流程图：
 ![image](https://github.com/shaoPeng24/robot/blob/master/image/2.png)
