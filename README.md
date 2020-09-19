@@ -17,7 +17,7 @@
 #### 5. 文件目录结构：
 
 #### 6. 软件与硬件的系统框图及流程图：
-![image](https://github.com/shaoPeng24/robot/blob/master/image/2.png =100x100)
+![image](https://github.com/shaoPeng24/robot/blob/master/image/2.png)
 #### 7. 原理介绍与理论分析：　　
 自瞄预判原理:   
 &emsp;&emsp;已知摄像头与目标角度偏差：yaw，pitch，与自身的实际角度相加获得目标的绝对角度用x，y代替。  
@@ -28,9 +28,8 @@
 具体v和a的更新方法和pid比较相似，详见工程代码。
 
 #### 8. 软件架构：
-![image](https://github.com/shaoPeng24/robot/blob/master/image/1.png)
+<img src="https://github.com/shaoPeng24/robot/blob/master/image/1.png" width = "200" height = "300" alt="" align=center />
 #### 9. 未来优化方向：
 1. 提高pid的响应速度。
 2. 结合视觉的距离信息做预判。
-3. 
 
